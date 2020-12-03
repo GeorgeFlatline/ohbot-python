@@ -1,4 +1,4 @@
-# Ohbot Python setup for Mac
+# Ohbot Python Setup for Mac
 
 <a href="http://whoosh.co.uk/ohbothelp/images/eyes.gif" target="_blank"><img src="http://whoosh.co.uk/ohbothelp/images/eyes.gif" border="0" width = "30%"/></a>
 
